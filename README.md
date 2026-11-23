@@ -1,4 +1,4 @@
-## Hi there 👋
+## i love shake mojito
 
 <!--
 **yuukkah/yuukkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
